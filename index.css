@@ -12,8 +12,7 @@ html, body {
     flex-direction: column;
     max-width: 320px;
     margin: 30px auto;
-    justify-content: center;
-    height: 100vh;
+  
 }
 
 img {
